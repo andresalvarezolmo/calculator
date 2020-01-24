@@ -1,0 +1,10 @@
+C:\Users\andresalvarezolmo\source\repos\CalculatorFinal\bin\Debug\CalculatorFinal.exe.config
+C:\Users\andresalvarezolmo\source\repos\CalculatorFinal\bin\Debug\CalculatorFinal.exe
+C:\Users\andresalvarezolmo\source\repos\CalculatorFinal\bin\Debug\CalculatorFinal.pdb
+C:\Users\andresalvarezolmo\source\repos\CalculatorFinal\obj\Debug\CalculatorFinal.csprojAssemblyReference.cache
+C:\Users\andresalvarezolmo\source\repos\CalculatorFinal\obj\Debug\CalculatorFinal.Form1.resources
+C:\Users\andresalvarezolmo\source\repos\CalculatorFinal\obj\Debug\CalculatorFinal.Properties.Resources.resources
+C:\Users\andresalvarezolmo\source\repos\CalculatorFinal\obj\Debug\CalculatorFinal.csproj.GenerateResource.cache
+C:\Users\andresalvarezolmo\source\repos\CalculatorFinal\obj\Debug\CalculatorFinal.csproj.CoreCompileInputs.cache
+C:\Users\andresalvarezolmo\source\repos\CalculatorFinal\obj\Debug\CalculatorFinal.exe
+C:\Users\andresalvarezolmo\source\repos\CalculatorFinal\obj\Debug\CalculatorFinal.pdb
